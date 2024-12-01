@@ -1,0 +1,249 @@
+{
+  "tasks": [
+    {
+      "id": "6ac4",
+      "content": "Wprowadzenie do kursu i przegląd celów",
+      "completed": false
+    },
+    {
+      "id": "08b7",
+      "content": "Wybór hostingu i domeny",
+      "completed": false
+    },
+    {
+      "id": "5af8",
+      "content": "Obsługa panelu Hostinger (rejestracja, konfiguracja)",
+      "completed": false
+    },
+    {
+      "id": "0ef2",
+      "content": "Instalacja WordPress i WooCommerce z panelu Hostinger",
+      "completed": false
+    },
+    {
+      "id": "5fd2",
+      "content": "Podstawy obsługi panelu administracyjnego WordPress",
+      "completed": false
+    },
+    {
+      "id": "7cbd",
+      "content": "Dodawanie i zarządzanie stronami oraz postami",
+      "completed": false
+    },
+    {
+      "id": "d267",
+      "content": "Zarządzanie wtyczkami i aktualizacjami WordPress",
+      "completed": false
+    },
+    {
+      "id": "8176",
+      "content": "Dostosowywanie wyglądu strony: motywy i widgety",
+      "completed": false
+    },
+    {
+      "id": "dc0e",
+      "content": "Instalacja i konfiguracja WooCommerce",
+      "completed": false
+    },
+    {
+      "id": "a7a3",
+      "content": "Ustawienia lokalizacji, waluty i podatków",
+      "completed": false
+    },
+    {
+      "id": "4a29",
+      "content": "Zaawansowana konfiguracja produktów (do 50 produktów)",
+      "completed": false
+    },
+    {
+      "id": "7242",
+      "content": "Zarządzanie magazynem i alerty niskich stanów magazynowych",
+      "completed": false
+    },
+    {
+      "id": "8382",
+      "content": "Instalacja i konfiguracja WooPayments",
+      "completed": false
+    },
+    {
+      "id": "6e48",
+      "content": "Integracja z Przelewy24, PayPal, kartami płatniczymi, Apple Pay, Google Pay",
+      "completed": false
+    },
+    {
+      "id": "d6da",
+      "content": "Konfiguracja wielu stref wysyłki",
+      "completed": false
+    },
+    {
+      "id": "97d2",
+      "content": "Wybór hurtowni oraz jej obsługa i wyjaśnienie jak to działa",
+      "completed": false
+    },
+    {
+      "id": "516e",
+      "content": "Obsługa produktów cyfrowych i wyjaśnienie jak to działa",
+      "completed": false
+    },
+    {
+      "id": "af5e",
+      "content": "Wysyłka międzynarodowa, kurierzy i opcje darmowej dostawy",
+      "completed": false
+    },
+    {
+      "id": "78ab",
+      "content": "Tworzenie opisów SEO dla produktów i kategorii",
+      "completed": false
+    },
+    {
+      "id": "ef35",
+      "content": "Konfiguracja sitemapy i meta tagów",
+      "completed": false
+    },
+    {
+      "id": "33e3",
+      "content": "Używanie Yoast SEO lub Rank Math do analizy słów kluczowych",
+      "completed": false
+    },
+    {
+      "id": "07c1",
+      "content": "Integracja z Google Analytics, Ads i Search Console",
+      "completed": false
+    },
+    {
+      "id": "e484",
+      "content": "Konfiguracja Facebook Ads i Pixel",
+      "completed": false
+    },
+    {
+      "id": "5268",
+      "content": "Konfiguracja TikTok Ads i kampanii reklamowych",
+      "completed": false
+    },
+    {
+      "id": "c335",
+      "content": "Tworzenie i personalizacja szablonów WordPress (motyw dziecka)",
+      "completed": false
+    },
+    {
+      "id": "dd3b",
+      "content": "Tworzenie spersonalizowanych elementów graficznych",
+      "completed": false
+    },
+    {
+      "id": "3ca0",
+      "content": "Jak korzystać z ASTRA AI do automatyzacji projektowania i optymalizacji sklepu",
+      "completed": false
+    },
+    {
+      "id": "76c2",
+      "content": "Tworzenie dedykowanych stron „O nas” i „Zestawy”",
+      "completed": false
+    },
+    {
+      "id": "e5b1",
+      "content": "Zarządzanie zamówieniami i automatyzacja procesów",
+      "completed": false
+    },
+    {
+      "id": "5512",
+      "content": "Obsługa zwrotów i automatyczne generowanie etykiet zwrotnych",
+      "completed": false
+    },
+    {
+      "id": "2538",
+      "content": "Polityka prywatności, zwrotów i regulamin sklepu",
+      "completed": false
+    },
+    {
+      "id": "5fd2",
+      "content": "Ustawienie automatycznych kopii zapasowych (UpdraftPlus)",
+      "completed": false
+    },
+    {
+      "id": "2bbd",
+      "content": "Wprowadzenie do zabezpieczeń (Wordfence)",
+      "completed": false
+    },
+    {
+      "id": "43bc",
+      "content": "Wdrożenie programu lojalnościowego",
+      "completed": false
+    },
+    {
+      "id": "a9e5",
+      "content": "Konfiguracja systemu recenzji produktów",
+      "completed": false
+    },
+    {
+      "id": "c98b",
+      "content": "Instalacja i konfiguracja live chat bota (Tidio)",
+      "completed": false
+    },
+    {
+      "id": "3027",
+      "content": "Wdrożenie wielojęzyczności sklepu (WPML, Polylang)",
+      "completed": false
+    },
+    {
+      "id": "c54d",
+      "content": "Przeprowadzenie analizy konkurencji (Google Trends, SEMrush)",
+      "completed": false
+    },
+    {
+      "id": "d984",
+      "content": "Dostosowanie oferty sklepu do wyników analizy",
+      "completed": false
+    },
+    {
+      "id": "7dc4",
+      "content": "Planowanie kampanii na Facebooku, TikToku, Google i Instagramie",
+      "completed": false
+    },
+    {
+      "id": "191b",
+      "content": "Targetowanie, budżet i analiza wyników kampanii",
+      "completed": false
+    },
+    {
+      "id": "70a2",
+      "content": "Podsumowanie kursu i dalsze kroki",
+      "completed": false
+    },
+    {
+      "id": "45f7",
+      "content": "Bonus: Poradnik SEO i marketingu sklepu",
+      "completed": false
+    },
+    {
+      "id": "b4ea",
+      "content": "Bonus: Darmowe obrazy i filmy bez praw autorskich",
+      "completed": false
+    },
+    {
+      "id": "3224",
+      "content": "Wprowadzenie do WP Forms i instalacja",
+      "completed": false
+    },
+    {
+      "id": "5ba3",
+      "content": "Tworzenie prostych formularzy kontaktowych i rejestracyjnych",
+      "completed": false
+    },
+    {
+      "id": "b138",
+      "content": "Zaawansowane formularze (płatności, ankiety, zamówienia)",
+      "completed": false
+    },
+    {
+      "id": "25e7",
+      "content": "Integracja WP Forms z MailChimp, Stripe, PayPal",
+      "completed": false
+    },
+    {
+      "id": "cf48",
+      "content": "Prezenty oraz certyfikat ukończenia kursu",
+      "completed": false
+    }
+  ]
+}

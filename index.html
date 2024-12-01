@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="authors" content="Vlorex & Chat GPT 4.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Checklist</title>
+</head>
+<body>
+    <header>
+        <h1>Checklista do kursu na Udemy</h1>
+    </header>
+    <main>
+        <!-- Formularz dodawania nowego zadania -->
+        <section id="add-task">
+            <input type="text" id="task-input" placeholder="Dodaj nowe zadanie...">
+            <button id="add-button">Dodaj</button>
+        </section>
+
+        <!-- Lista zadań -->
+        <section id="task-list">
+            <ul id="tasks">
+                <!-- Zadania będą dynamicznie dodawane przez JS -->
+            </ul>
+        </section>
+        <p id="podsumowanie">Łącznie: <span id="completed">0</span>/<span id="all">0</span> zadań (<span id="proc">0%</span>)</p>
+    </main>
+    <footer>
+        <p>Stworzono z pasją &copy; 2024</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
